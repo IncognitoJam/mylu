@@ -1,0 +1,116 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: mylu-1.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- META-INF/android.support.design_material.version
+- META-INF/androidx.activity_activity.version
+- META-INF/androidx.appcompat_appcompat-resources.version
+- META-INF/androidx.appcompat_appcompat.version
+- META-INF/androidx.arch.core_core-runtime.version
+- META-INF/androidx.asynclayoutinflater_asynclayoutinflater.version
+- META-INF/androidx.cardview_cardview.version
+- META-INF/androidx.coordinatorlayout_coordinatorlayout.version
+- META-INF/androidx.core_core.version
+- META-INF/androidx.cursoradapter_cursoradapter.version
+- META-INF/androidx.customview_customview.version
+- META-INF/androidx.documentfile_documentfile.version
+- META-INF/androidx.drawerlayout_drawerlayout.version
+- META-INF/androidx.exifinterface_exifinterface.version
+- META-INF/androidx.fragment_fragment.version
+- META-INF/androidx.interpolator_interpolator.version
+- META-INF/androidx.legacy_legacy-support-core-ui.version
+- META-INF/androidx.legacy_legacy-support-core-utils.version
+- META-INF/androidx.legacy_legacy-support-v4.version
+- META-INF/androidx.lifecycle_lifecycle-livedata-core.version
+- META-INF/androidx.lifecycle_lifecycle-livedata.version
+- META-INF/androidx.lifecycle_lifecycle-runtime.version
+- META-INF/androidx.lifecycle_lifecycle-viewmodel.version
+- META-INF/androidx.loader_loader.version
+- META-INF/androidx.localbroadcastmanager_localbroadcastmanager.version
+- META-INF/androidx.media_media.version
+- META-INF/androidx.print_print.version
+- META-INF/androidx.recyclerview_recyclerview.version
+- META-INF/androidx.savedstate_savedstate.version
+- META-INF/androidx.slidingpanelayout_slidingpanelayout.version
+- META-INF/androidx.swiperefreshlayout_swiperefreshlayout.version
+- META-INF/androidx.transition_transition.version
+- META-INF/androidx.vectordrawable_vectordrawable-animated.version
+- META-INF/androidx.vectordrawable_vectordrawable.version
+- META-INF/androidx.versionedparcelable_versionedparcelable.version
+- META-INF/androidx.viewpager_viewpager.version
+- META-INF/com.google.android.material_material.version
+- assets/appcenter-config.json
+- png
+- jpg
+- res/raw/node_modules_awsamplify_core_node_modules_awssdk_apis_cognitoidentity20140630paginators.json
+- res/raw/node_modules_awsamplify_core_node_modules_awssdk_apis_sts20110615paginators.json
+- res/raw/node_modules_awsappsync_node_modules_awssdk_apis_cognitoidentity20140630paginators.json
+- res/raw/node_modules_awsappsync_node_modules_awssdk_apis_sts20110615paginators.json
+- res/raw/node_modules_awsappsyncauthlink_node_modules_awssdk_apis_cognitoidentity20140630paginators.json
+- res/raw/node_modules_awsappsyncauthlink_node_modules_awssdk_apis_sts20110615paginators.json
+- res/raw/node_modules_awssdk_apis_cloudhsm20140530paginators.json
+- res/raw/node_modules_awssdk_apis_codebuild20161006paginators.json
+- res/raw/node_modules_awssdk_apis_cognitoidentity20140630paginators.json
+- res/raw/node_modules_awssdk_apis_comprehendmedical20181030paginators.json
+- res/raw/node_modules_awssdk_apis_events20151007paginators.json
+- res/raw/node_modules_awssdk_apis_firehose20150804paginators.json
+- res/raw/node_modules_awssdk_apis_forecastquery20180626paginators.json
+- res/raw/node_modules_awssdk_apis_gamelift20151001paginators.json
+- res/raw/node_modules_awssdk_apis_iot20150528paginators.json
+- res/raw/node_modules_awssdk_apis_kinesisvideomedia20170930paginators.json
+- res/raw/node_modules_awssdk_apis_kinesisvideosignaling20191204paginators.json
+- res/raw/node_modules_awssdk_apis_marketplacecommerceanalytics20150701paginators.json
+- res/raw/node_modules_awssdk_apis_personalizeevents20180322paginators.json
+- res/raw/node_modules_awssdk_apis_personalizeruntime20180522paginators.json
+- res/raw/node_modules_awssdk_apis_rds20140901paginators.json
+- res/raw/node_modules_awssdk_apis_runtimelex20161128paginators.json
+- res/raw/node_modules_awssdk_apis_streamsdynamodb20120810paginators.json
+- res/raw/node_modules_awssdk_apis_sts20110615paginators.json
+- res/raw/node_modules_awssdk_apis_textract20180627paginators.json
+- res/raw/node_modules_awssdk_apis_waf20150824paginators.json
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '21'
+  targetSdkVersion: '28'
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  androidsupportmultidexversion.txt: '0'
+  firebase-analytics.properties: '8'
+  firebase-common.properties: '8'
+  firebase-core.properties: '8'
+  firebase-iid-interop.properties: '8'
+  firebase-iid.properties: '8'
+  firebase-measurement-connector.properties: '8'
+  firebase-messaging.properties: '8'
+  model-distance-calculations.json: '8'
+  play-services-ads-identifier.properties: '8'
+  play-services-base.properties: '8'
+  play-services-basement.properties: '8'
+  play-services-clearcut.properties: '8'
+  play-services-flags.properties: '8'
+  play-services-iid.properties: '8'
+  play-services-measurement-api.properties: '8'
+  play-services-measurement-base.properties: '8'
+  play-services-measurement-impl.properties: '8'
+  play-services-measurement-sdk-api.properties: '8'
+  play-services-measurement-sdk.properties: '8'
+  play-services-measurement.properties: '8'
+  play-services-phenotype.properties: '8'
+  play-services-stats.properties: '8'
+  play-services-tasks.properties: '8'
+  play-services-vision-common.properties: '8'
+  play-services-vision.properties: '8'
+  okhttp3/internal/publicsuffix/publicsuffixes.gz: '0'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.4.1
+versionInfo:
+  versionCode: '1'
+  versionName: '1.0'
